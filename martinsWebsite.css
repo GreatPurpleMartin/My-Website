@@ -8,6 +8,10 @@ p {
   text-indent: 50px;
   color: #FFFFFF;
 }
+h2 {
+  font-family: "Verdana";
+  color: #FFFFFF;
+}
 body {
   background-color: black;
   margin-left: 50px;
