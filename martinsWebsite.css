@@ -1,12 +1,12 @@
 h1 {
   font-family: "Verdana";
-  font-color: white;
+  color: white;
 }
 p {
   font-family: "Verdana";
   font-size: 18px;
   text-indent: 50px;
-  font-color: white;
+  color: white;
 }
 body {
   background-color: black;
