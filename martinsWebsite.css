@@ -6,6 +6,6 @@ p {
   font-size: 18px;
   text-indent: 50px;
 }
-.body {
-  background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/05/city-wallpaper-7.jpg");
+body {
+  background-color: red;
 }
