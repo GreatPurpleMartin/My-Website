@@ -1,17 +1,17 @@
 h1 {
   font-family: "Verdana";
+  text-indent: 25px;
 }
 p {
   font-family: "Verdana";
   font-size: 18px;
-  text-indent: 50px;
+  text-indent: 75px;
 }
 h3 {
   font-family: "Verdana";
+  text-indent: 25px;
 }
 body {
   border-left: 100px solid black;
   border-right: 100px solid black;
-  margin-left: 50px;
-  margin-right: 50px;
 }
