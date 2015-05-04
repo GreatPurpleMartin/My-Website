@@ -1,19 +1,17 @@
 h1 {
   font-family: "Verdana";
-  color: #FFFFFF;
 }
 p {
   font-family: "Verdana";
   font-size: 18px;
   text-indent: 50px;
-  color: rgb(51, 204, 51);
 }
 h3 {
   font-family: "Verdana";
-  color: #FF6600;
 }
 body {
-  background-color: blue;
+  border-left: 100px solid black;
+  border-right: 100px solid black;
   margin-left: 50px;
   margin-right: 50px;
 }
